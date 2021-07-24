@@ -18,6 +18,8 @@ public class BossDialogue : MonoBehaviour
     public GameObject end2Dialogue_5;
     public GameObject end2Dialogue_6;
     public GameObject choicePanel;
+    public GameObject bossSad;
+    public GameObject bossHappy;
     int count = 0;
     int end1_count = 0;
     int end2_count = 0;
@@ -25,6 +27,8 @@ public class BossDialogue : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        bossSad.SetActive(true);
+        bossHappy.SetActive(false);
         dialogue_1.SetActive(true);
     }
 
@@ -113,6 +117,8 @@ public class BossDialogue : MonoBehaviour
 
     public void Ending_2()
     {
+        bossSad.SetActive(false);
+        bossHappy.SetActive(true);
         choicePanel.SetActive(false);
         end2Dialogue_1.SetActive(true);
         end2_count++;

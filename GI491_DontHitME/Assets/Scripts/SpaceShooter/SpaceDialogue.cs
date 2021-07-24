@@ -20,17 +20,28 @@ public class SpaceDialogue : MonoBehaviour
     public GameObject SATK_1;
     public GameObject SATK_2;
     public GameObject SATK_3;
+    public GameObject bossDialogue;
+    public GameObject bossAction;
+    public GameManager gm;
 
     // Start is called before the first frame update
     void Start()
     {
-        StartCoroutine(Dialogue());
+        if (gm.gameOver == false)
+        {
+            StartCoroutine(Dialogue());
+        }
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        if (gm.gameOver == true)
+        {
+            bossDialogue.SetActive(false);
+            bossAction.SetActive(false);
+            Destroy(this);
+        }
     }
 
     IEnumerator Dialogue()
