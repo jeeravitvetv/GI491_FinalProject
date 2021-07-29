@@ -5229,7 +5229,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 62, y: 75}
+  m_AnchoredPosition: {x: 88, y: 75}
   m_SizeDelta: {x: 1000, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &432343139
@@ -5265,8 +5265,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0E1E\u0E39\u0E14\u0E07\u0E48\u0E32\u0E22\u0E46\u0E40\u0E01\u0E21\u0E19\u0E35\u0E49\u0E21\u0E31\u0E19\u0E40\u0E15\u0E47\u0E21\u0E44\u0E1B\u0E14\u0E49\u0E27\u0E22\u0E1A\u0E31\u0E04\u0E22\u0E31\u0E07\u0E44\u0E07\u0E2B\u0E25\u0E30
-    \u0E41\u0E15\u0E48\u0E21\u0E31\u0E19\u0E44\u0E21\u0E48\u0E2A\u0E33\u0E04\u0E31\u0E0D\u0E2D\u0E35\u0E01\u0E15\u0E48\u0E2D\u0E44\u0E1B\u0E41\u0E25\u0E49\u0E27!!"
+  m_Text: "Simply put, this game is full of bugs. \nBut it doesn't matter anymore!!"
 --- !u!222 &432343140
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10379,7 +10378,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 62, y: 75}
+  m_AnchoredPosition: {x: 88, y: 75}
   m_SizeDelta: {x: 1000, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &954887025
@@ -10415,7 +10414,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0E40\u0E1E\u0E23\u0E32\u0E30\u0E07\u0E31\u0E49\u0E19\u0E40\u0E15\u0E23\u0E35\u0E22\u0E21\u0E15\u0E31\u0E27\u0E42\u0E14\u0E19\u0E17\u0E33\u0E25\u0E32\u0E22\u0E44\u0E14\u0E49\u0E40\u0E25\u0E22!!!!"
+  m_Text: So prepare to be destroyed!!!!
 --- !u!222 &954887026
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10458,7 +10457,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 62, y: 75}
+  m_AnchoredPosition: {x: 88, y: 75}
   m_SizeDelta: {x: 1000, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &960682642
@@ -10494,7 +10493,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0E09\u0E31\u0E19\u0E1A\u0E2D\u0E01\u0E41\u0E25\u0E49\u0E27\u0E27\u0E48\u0E32\u0E19\u0E32\u0E22\u0E08\u0E30\u0E44\u0E14\u0E49\u0E40\u0E08\u0E2D\u0E01\u0E31\u0E1A\u0E40\u0E23\u0E37\u0E48\u0E2D\u0E07\u0E17\u0E35\u0E48\u0E40\u0E25\u0E27\u0E23\u0E49\u0E32\u0E22"
+  m_Text: "I told you that you're going to \nhave a bad day."
 --- !u!222 &960682643
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10801,7 +10800,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0E19\u0E32\u0E22\u0E15\u0E01\u0E43\u0E08\u0E07\u0E31\u0E49\u0E19\u0E2B\u0E23\u0E2D\u0E17\u0E35\u0E48\u0E40\u0E08\u0E2D\u0E09\u0E31\u0E19\u0E43\u0E19\u0E2A\u0E20\u0E32\u0E1E\u0E19\u0E35\u0E49?!"
+  m_Text: "Are you surprised to see me \nin this state?!"
 --- !u!222 &1420225927
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -15942,7 +15941,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0E09\u0E31\u0E19\u0E41\u0E2E\u0E01\u0E40\u0E02\u0E49\u0E32\u0E40\u0E01\u0E21\u0E19\u0E35\u0E49\u0E41\u0E25\u0E49\u0E27\u0E1B\u0E23\u0E31\u0E1A\u0E40\u0E1B\u0E25\u0E35\u0E48\u0E22\u0E19\u0E17\u0E38\u0E01\u0E2A\u0E34\u0E48\u0E07\u0E17\u0E38\u0E01\u0E2D\u0E22\u0E48\u0E32\u0E07!"
+  m_Text: "I hacked into this game \nand changed everything!"
 --- !u!222 &1915441028
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -16021,7 +16020,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0E19\u0E35\u0E49\u0E04\u0E37\u0E2D\u0E23\u0E48\u0E32\u0E07\u0E01\u0E32\u0E22\u0E17\u0E35\u0E48\u0E41\u0E17\u0E49\u0E08\u0E23\u0E34\u0E07\u0E02\u0E2D\u0E07\u0E09\u0E31\u0E19\u0E22\u0E31\u0E07\u0E44\u0E07\u0E2B\u0E25\u0E30!!"
+  m_Text: This is my real body!!
 --- !u!222 &2127060725
 CanvasRenderer:
   m_ObjectHideFlags: 0

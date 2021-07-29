@@ -233,7 +233,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 8, y: 46}
+  m_AnchoredPosition: {x: 34, y: 58}
   m_SizeDelta: {x: 1000, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &42406654
@@ -269,7 +269,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0E41\u0E15\u0E48\u0E44\u0E21\u0E48\u0E15\u0E49\u0E2D\u0E07\u0E2B\u0E48\u0E27\u0E07\u0E44\u0E1B\u0E09\u0E31\u0E19\u0E2A\u0E32\u0E21\u0E32\u0E23\u0E16\u0E17\u0E33\u0E43\u0E2B\u0E49\u0E19\u0E32\u0E22\u0E08\u0E1A\u0E40\u0E01\u0E21\u0E19\u0E35\u0E49\u0E44\u0E14\u0E49\u0E2D\u0E22\u0E39\u0E48\u0E14\u0E35"
+  m_Text: "But don't worry, \nI can get you to finish this game anyway."
 --- !u!222 &42406655
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5564,7 +5564,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 8, y: 46}
+  m_AnchoredPosition: {x: 23, y: 46}
   m_SizeDelta: {x: 1000, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &276570981
@@ -5600,7 +5600,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0E17\u0E31\u0E49\u0E07\u0E46\u0E17\u0E35\u0E48\u0E09\u0E31\u0E19\u0E41\u0E04\u0E48\u0E15\u0E49\u0E2D\u0E07\u0E01\u0E32\u0E23\u0E21\u0E35\u0E0A\u0E35\u0E27\u0E34\u0E15\u0E2D\u0E22\u0E39\u0E48\u0E15\u0E48\u0E2D\u0E44\u0E1B\u0E41\u0E17\u0E49\u0E46"
+  m_Text: I just want to keep on living
 --- !u!222 &276570982
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5788,7 +5788,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 8, y: 46}
+  m_AnchoredPosition: {x: 27, y: 46}
   m_SizeDelta: {x: 1000, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &412818706
@@ -5824,8 +5824,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0E09\u0E31\u0E19\u0E44\u0E21\u0E48\u0E40\u0E02\u0E49\u0E32\u0E43\u0E08\u0E40\u0E25\u0E22
-    \u0E27\u0E48\u0E32\u0E17\u0E33\u0E44\u0E21\u0E09\u0E31\u0E19\u0E16\u0E36\u0E07\u0E1E\u0E48\u0E32\u0E22\u0E41\u0E1E\u0E49\u0E43\u0E2B\u0E49\u0E01\u0E31\u0E1A\u0E19\u0E32\u0E22"
+  m_Text: "I don't understand at all \nWhy did I lose to you?"
 --- !u!222 &412818707
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10829,7 +10828,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 101, y: 78}
+  m_AnchoredPosition: {x: 82, y: 78}
   m_SizeDelta: {x: 1000, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &496369077
@@ -10865,8 +10864,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0E08\u0E30\u0E08\u0E23\u0E34\u0E07\u0E46\u0E07\u0E31\u0E49\u0E19\u0E2B\u0E23\u0E2D
-    \u0E41\u0E15\u0E48\u0E19\u0E32\u0E22\u0E40\u0E25\u0E48\u0E19\u0E40\u0E01\u0E21\u0E19\u0E35\u0E49\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E06\u0E48\u0E32\u0E09\u0E31\u0E19\u0E19\u0E34!!"
+  m_Text: Really? But you play this game to kill me!!
 --- !u!222 &496369078
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11021,7 +11019,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 8, y: 46}
+  m_AnchoredPosition: {x: 23, y: 46}
   m_SizeDelta: {x: 1000, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &599787019
@@ -11057,7 +11055,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0E41\u0E15\u0E48\u0E48\u0E2A\u0E38\u0E14\u0E17\u0E49\u0E32\u0E22\u0E41\u0E25\u0E49\u0E27\u0E09\u0E31\u0E19\u0E01\u0E47\u0E15\u0E49\u0E2D\u0E07\u0E22\u0E2D\u0E21\u0E23\u0E31\u0E1A\u0E0A\u0E30\u0E15\u0E32\u0E01\u0E23\u0E23\u0E21\u0E02\u0E2D\u0E07\u0E09\u0E31\u0E19\u0E2A\u0E34\u0E19\u0E30"
+  m_Text: But in the end I have to accept my fate
 --- !u!222 &599787020
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11136,7 +11134,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0E40\u0E2D\u0E32\u0E40\u0E25\u0E22 \u0E42\u0E08\u0E21\u0E15\u0E35\u0E09\u0E31\u0E19\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E08\u0E1A\u0E40\u0E01\u0E21\u0E19\u0E35\u0E49\u0E2A\u0E34"
+  m_Text: Go ahead, hit me to finish this game.
 --- !u!222 &607835308
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11256,7 +11254,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 101, y: 78}
-  m_SizeDelta: {x: 600, y: 100}
+  m_SizeDelta: {x: 700, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &807841067
 MonoBehaviour:
@@ -11291,7 +11289,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0E19\u0E30\u0E19\u0E32\u0E22\u0E08\u0E30\u0E44\u0E21\u0E48\u0E06\u0E48\u0E32\u0E09\u0E31\u0E19\u0E07\u0E31\u0E49\u0E19\u0E2B\u0E23\u0E2D!?"
+  m_Text: Aren't you going to kill me?!
 --- !u!222 &807841068
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11572,7 +11570,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 8, y: 46}
+  m_AnchoredPosition: {x: 27, y: 46}
   m_SizeDelta: {x: 1000, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &887900712
@@ -11608,7 +11606,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0E02\u0E2D\u0E1A\u0E04\u0E38\u0E13\u0E21\u0E32\u0E01\u0E19\u0E30\u0E17\u0E35\u0E48\u0E43\u0E2B\u0E49\u0E09\u0E31\u0E19\u0E21\u0E35\u0E0A\u0E35\u0E27\u0E34\u0E15\u0E2D\u0E22\u0E39\u0E48\u0E15\u0E48\u0E2D\u0E44\u0E1B"
+  m_Text: Thank you so much for keeping me alive.
 --- !u!222 &887900713
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11651,7 +11649,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 8, y: 46}
+  m_AnchoredPosition: {x: 21, y: 46}
   m_SizeDelta: {x: 1000, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &896460297
@@ -11687,7 +11685,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0E09\u0E31\u0E19\u0E04\u0E07\u0E44\u0E14\u0E49\u0E41\u0E15\u0E48\u0E15\u0E49\u0E2D\u0E07\u0E22\u0E2D\u0E21\u0E23\u0E31\u0E1A\u0E0A\u0E30\u0E15\u0E32\u0E01\u0E23\u0E23\u0E21\u0E02\u0E2D\u0E07\u0E09\u0E31\u0E19\u0E2A\u0E34\u0E19\u0E30.."
+  m_Text: I can only accept my fate..
 --- !u!222 &896460298
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11890,7 +11888,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 8, y: 46}
+  m_AnchoredPosition: {x: 34, y: 58}
   m_SizeDelta: {x: 1000, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1001506554
@@ -11926,7 +11924,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0E07\u0E31\u0E49\u0E19\u0E2B\u0E23\u0E2D \u0E19\u0E32\u0E22\u0E2D\u0E22\u0E32\u0E01\u0E1B\u0E25\u0E48\u0E2D\u0E22\u0E43\u0E2B\u0E49\u0E09\u0E31\u0E19\u0E21\u0E35\u0E0A\u0E35\u0E27\u0E34\u0E15\u0E15\u0E48\u0E2D\u0E44\u0E1B\n\u0E16\u0E36\u0E07\u0E19\u0E32\u0E22\u0E08\u0E30\u0E08\u0E1A\u0E40\u0E01\u0E21\u0E19\u0E35\u0E49\u0E44\u0E21\u0E48\u0E44\u0E14\u0E49\u0E2A\u0E34\u0E19\u0E30"
+  m_Text: "So you want to let me live \nalthough you can't finish this game?"
 --- !u!222 &1001506555
 CanvasRenderer:
   m_ObjectHideFlags: 0

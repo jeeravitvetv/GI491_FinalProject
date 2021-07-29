@@ -158,8 +158,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 350, y: -33}
-  m_SizeDelta: {x: 1500, y: 900}
+  m_AnchoredPosition: {x: 350, y: -64}
+  m_SizeDelta: {x: 1600, y: 900}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &5941248
 MonoBehaviour:
@@ -497,8 +497,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 350, y: -33}
-  m_SizeDelta: {x: 1500, y: 900}
+  m_AnchoredPosition: {x: 350, y: -64}
+  m_SizeDelta: {x: 1600, y: 900}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &74551401
 MonoBehaviour:
@@ -572,8 +572,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 55, y: 73}
-  m_SizeDelta: {x: 600, y: 500}
+  m_AnchoredPosition: {x: 63, y: 67}
+  m_SizeDelta: {x: 900, y: 500}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &97857361
 MonoBehaviour:
@@ -608,7 +608,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0E23\u0E39\u0E49\u0E2D\u0E22\u0E48\u0E32\u0E07\u0E19\u0E31\u0E49\u0E19\u0E41\u0E25\u0E49\u0E27\u0E19\u0E32\u0E22\u0E22\u0E31\u0E07\u0E08\u0E30\n\u0E04\u0E34\u0E14\u0E17\u0E33\u0E23\u0E49\u0E32\u0E22\u0E09\u0E31\u0E19\u0E43\u0E2B\u0E49\u0E44\u0E14\u0E49\u0E07\u0E31\u0E49\u0E19\u0E2B\u0E23\u0E2D!?!?"
+  m_Text: "Knowing that, are you still \nthinking of hurting me?!?!?"
 --- !u!222 &97857362
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1277,8 +1277,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -6, y: 55}
-  m_SizeDelta: {x: 600, y: 500}
+  m_AnchoredPosition: {x: 3, y: 58}
+  m_SizeDelta: {x: 800, y: 500}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &342896175
 MonoBehaviour:
@@ -1313,8 +1313,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0E1B\u0E25\u0E48\u0E2D\u0E22\u0E09\u0E31\u0E19\u0E44\u0E1B\u0E40\u0E16\u0E2D\u0E30\u0E19\u0E30
-    \u0E09\u0E31\u0E19\u0E2A\u0E31\u0E0D\u0E0D\u0E32\u0E27\u0E48\u0E32\u0E08\u0E30\u0E44\u0E21\u0E48\u0E23\u0E1A\u0E01\u0E27\u0E19\u0E19\u0E32\u0E22"
+  m_Text: "Let me go, \nI promise not to bother you."
 --- !u!222 &342896176
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1357,8 +1356,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 43}
-  m_SizeDelta: {x: 600, y: 500}
+  m_AnchoredPosition: {x: 3, y: 39}
+  m_SizeDelta: {x: 800, y: 500}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &359068957
 MonoBehaviour:
@@ -1393,7 +1392,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0E02\u0E2D\u0E23\u0E49\u0E2D\u0E07\u0E2B\u0E25\u0E30"
+  m_Text: Please..
 --- !u!222 &359068958
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1627,8 +1626,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 55, y: 79}
-  m_SizeDelta: {x: 600, y: 500}
+  m_AnchoredPosition: {x: 63, y: 73}
+  m_SizeDelta: {x: 900, y: 500}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &509533343
 MonoBehaviour:
@@ -1663,7 +1662,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0E16\u0E49\u0E32\u0E19\u0E32\u0E22\u0E44\u0E21\u0E48\u0E2B\u0E22\u0E38\u0E14\n\u0E21\u0E31\u0E19\u0E08\u0E30\u0E40\u0E01\u0E34\u0E14\u0E40\u0E23\u0E37\u0E48\u0E2D\u0E07\u0E40\u0E25\u0E27\u0E23\u0E49\u0E32\u0E22\u0E02\u0E36\u0E49\u0E19\u0E19\u0E30!?"
+  m_Text: "If you don't stop, \nthings will get worse!?"
 --- !u!222 &509533344
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2142,7 +2141,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 350, y: -64}
-  m_SizeDelta: {x: 1500, y: 900}
+  m_SizeDelta: {x: 1600, y: 900}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &682793791
 MonoBehaviour:
@@ -2252,9 +2251,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Push Red Button To Open The Box.\n(\u0E04\u0E48\u0E2D\u0E22 \u0E46 \u0E01\u0E14\u0E19\u0E49\u0E32
-    \u0E40\u0E14\u0E35\u0E4B\u0E22\u0E27\u0E01\u0E25\u0E48\u0E2D\u0E07\u0E1A\u0E31\u0E04
-    \u0E2D\u0E34\u0E2D\u0E34)"
+  m_Text: 'Push Red Button To Open The Box.
+
+    (Press slowly because it may bug)'
 --- !u!222 &739761483
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2434,8 +2433,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -6, y: 43}
-  m_SizeDelta: {x: 600, y: 500}
+  m_AnchoredPosition: {x: 3, y: 45}
+  m_SizeDelta: {x: 800, y: 500}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &780576002
 MonoBehaviour:
@@ -2470,7 +2469,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0E02\u0E2D\u0E43\u0E2B\u0E49\u0E09\u0E31\u0E19\u0E44\u0E14\u0E49\u0E19\u0E2D\u0E19\u0E1E\u0E31\u0E01\u0E40\u0E16\u0E2D\u0E30\u0E19\u0E30.."
+  m_Text: Please let me rest..
 --- !u!222 &780576003
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2616,8 +2615,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 6, y: 43}
-  m_SizeDelta: {x: 600, y: 500}
+  m_AnchoredPosition: {x: -4, y: 45}
+  m_SizeDelta: {x: 800, y: 500}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &857221947
 MonoBehaviour:
@@ -2652,7 +2651,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0E44\u0E14\u0E49\u0E42\u0E1B\u0E23\u0E14.."
+  m_Text: I beg you
 --- !u!222 &857221948
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3262,7 +3261,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 363, y: -64}
-  m_SizeDelta: {x: 1000, y: 900}
+  m_SizeDelta: {x: 1100, y: 900}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1093390392
 MonoBehaviour:
@@ -3518,8 +3517,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 55, y: 67}
-  m_SizeDelta: {x: 600, y: 500}
+  m_AnchoredPosition: {x: 63, y: 67}
+  m_SizeDelta: {x: 900, y: 500}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1152288960
 MonoBehaviour:
@@ -3554,8 +3553,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0E09\u0E31\u0E19\u0E2B\u0E25\u0E1A\u0E2D\u0E2D\u0E01\u0E21\u0E32\u0E08\u0E32\u0E01\u0E40\u0E01\u0E21\u0E40\u0E14\u0E34\u0E21\u0E41\u0E25\u0E49\u0E27\n\u0E19\u0E32\u0E22\u0E44\u0E21\u0E48\u0E21\u0E35\u0E2A\u0E34\u0E17\u0E18\u0E34\u0E4C\u0E17\u0E33\u0E23\u0E49\u0E32\u0E22\u0E09\u0E31\u0E19\u0E19\u0E30
-    !"
+  m_Text: "I escaped from the original game, \nyou can't hurt me!"
 --- !u!222 &1152288961
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3903,7 +3901,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 363, y: -64}
-  m_SizeDelta: {x: 1000, y: 900}
+  m_SizeDelta: {x: 1100, y: 900}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1234231260
 MonoBehaviour:
@@ -4273,8 +4271,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 350, y: -33}
-  m_SizeDelta: {x: 1500, y: 900}
+  m_AnchoredPosition: {x: 350, y: -64}
+  m_SizeDelta: {x: 1600, y: 900}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1470999165
 MonoBehaviour:
@@ -4984,7 +4982,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 363, y: -64}
-  m_SizeDelta: {x: 1000, y: 900}
+  m_SizeDelta: {x: 1100, y: 900}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1776717194
 MonoBehaviour:
@@ -5126,7 +5124,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 363, y: -64}
-  m_SizeDelta: {x: 1000, y: 900}
+  m_SizeDelta: {x: 1100, y: 900}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1892793647
 MonoBehaviour:
@@ -5495,8 +5493,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 55, y: 67}
-  m_SizeDelta: {x: 600, y: 500}
+  m_AnchoredPosition: {x: 63, y: 67}
+  m_SizeDelta: {x: 900, y: 500}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2026354988
 MonoBehaviour:
@@ -5531,8 +5529,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0E44\u0E14\u0E49\u0E09\u0E31\u0E19\u0E40\u0E15\u0E37\u0E2D\u0E19\u0E19\u0E32\u0E22\u0E41\u0E25\u0E49\u0E27\u0E19\u0E30
-    !!!"
+  m_Text: I have warned you!!!
 --- !u!222 &2026354989
 CanvasRenderer:
   m_ObjectHideFlags: 0

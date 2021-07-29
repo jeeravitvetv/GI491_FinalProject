@@ -193,7 +193,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0E40\u0E02\u0E49\u0E32\u0E43\u0E08\u0E04\u0E27\u0E32\u0E21\u0E23\u0E39\u0E49\u0E2A\u0E36\u0E01\u0E02\u0E2D\u0E07\u0E1E\u0E27\u0E01\u0E40\u0E23\u0E32\n\u0E41\u0E25\u0E49\u0E27\u0E43\u0E0A\u0E48\u0E44\u0E2B\u0E21!?"
+  m_Text: You understand our feelings, right?!
 --- !u!222 &22232594
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1832,7 +1832,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0E08\u0E07\u0E23\u0E31\u0E31\u0E1A\u0E01\u0E32\u0E23\u0E42\u0E08\u0E21\u0E15\u0E35\u0E41\u0E1A\u0E1A\u0E1E\u0E34\u0E40\u0E28\u0E29\n\u0E02\u0E2D\u0E07\u0E09\u0E31\u0E19\u0E44\u0E1B\u0E2A\u0E30!!"
+  m_Text: Take my special attack!!
 --- !u!222 &632573741
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3020,7 +3020,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0E09\u0E31\u0E19\u0E08\u0E30\u0E44\u0E21\u0E48\u0E48\u0E22\u0E2D\u0E21\u0E15\u0E32\u0E22\u0E40\u0E14\u0E47\u0E14\u0E02\u0E32\u0E14"
+  m_Text: I will never die
 --- !u!222 &912633836
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3193,7 +3193,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0E40\u0E08\u0E47\u0E1A\u0E1B\u0E27\u0E14\u0E43\u0E0A\u0E48\u0E44\u0E2B\u0E21\u0E2B\u0E25\u0E30"
+  m_Text: Are you in pain?
 --- !u!222 &947118744
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3622,7 +3622,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 33, y: 57}
+  m_AnchoredPosition: {x: 39, y: 57}
   m_SizeDelta: {x: 500, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1143363110
@@ -3658,7 +3658,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0E17\u0E33\u0E44\u0E21\u0E19\u0E32\u0E22\u0E16\u0E36\u0E07\u0E22\u0E31\u0E07\u0E15\u0E48\u0E2D\u0E15\u0E49\u0E32\u0E19\u0E1E\u0E25\u0E31\u0E07\n\u0E17\u0E35\u0E48\u0E41\u0E17\u0E49\u0E08\u0E23\u0E34\u0E07\u0E02\u0E2D\u0E07\u0E09\u0E31\u0E19\u0E44\u0E14\u0E49\u0E2D\u0E22\u0E39\u0E48\u0E2B\u0E25\u0E30!?"
+  m_Text: "Why are you still against \nmy true power!?"
 --- !u!222 &1143363111
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4054,7 +4054,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0E21\u0E48\u0E32\u0E22\u0E22\u0E22\u0E22\u0E22\u0E22\u0E22\u0E22\u0E22\u0E22\u0E22"
+  m_Text: NOOOOOOOOOOOO!!!
 --- !u!222 &1204302230
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4595,7 +4595,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0E44\u0E21\u0E48\u0E19\u0E30 \u0E09\u0E31\u0E19\u0E08\u0E30\u0E44\u0E21\u0E48\u0E22\u0E2D\u0E21\u0E15\u0E32\u0E22\u0E17\u0E35\u0E48\u0E19\u0E35\u0E49!!!"
+  m_Text: No, I will not die here!!!
 --- !u!222 &1621639854
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4695,7 +4695,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 33, y: 54}
+  m_AnchoredPosition: {x: 39, y: 54}
   m_SizeDelta: {x: 500, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1690231891
@@ -4731,7 +4731,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0E08\u0E07\u0E23\u0E31\u0E1A\u0E23\u0E39\u0E49\u0E16\u0E36\u0E07\u0E04\u0E27\u0E32\u0E21\u0E17\u0E23\u0E21\u0E32\u0E13\n\u0E02\u0E2D\u0E07\u0E1E\u0E27\u0E01\u0E40\u0E23\u0E32\u0E2A\u0E30!!"
+  m_Text: Be aware of our suffering!!
 --- !u!222 &1690231892
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5437,7 +5437,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0E42\u0E14\u0E19\u0E25\u0E39\u0E01\u0E1A\u0E2D\u0E25\u0E42\u0E08\u0E21\u0E15\u0E35\u0E1A\u0E49\u0E32\u0E07\u0E23\u0E39\u0E49\u0E2A\u0E36\u0E01\u0E22\u0E31\u0E07\u0E44\u0E07"
+  m_Text: How do you feel about being hit by a ball?
 --- !u!222 &2057342908
 CanvasRenderer:
   m_ObjectHideFlags: 0
