@@ -9,6 +9,8 @@ public class DialogueSystem : MonoBehaviour
     public GameObject dialogue_2;
     public GameObject dialogue_3;
     public GameObject dialogue_4;
+    public GameObject dialogue_5;
+    public GameObject dialogue_6;
     bool endDialouge;
 
     // Start is called before the first frame update
@@ -42,8 +44,16 @@ public class DialogueSystem : MonoBehaviour
         dialogue_3.SetActive(false);
         yield return new WaitForSeconds(2);
         dialogue_4.SetActive(true);
-        yield return new WaitForSeconds(2);
+        yield return new WaitForSeconds(3);
         dialogue_4.SetActive(false);
+        yield return new WaitForSeconds(2);
+        dialogue_5.SetActive(true);
+        yield return new WaitForSeconds(2);
+        dialogue_5.SetActive(false);
+        yield return new WaitForSeconds(2);
+        dialogue_6.SetActive(true);
+        yield return new WaitForSeconds(2);
+        dialogue_6.SetActive(false);
         yield return new WaitForSeconds(2);
         endDialouge = true;
         yield return new WaitForSeconds(5);
